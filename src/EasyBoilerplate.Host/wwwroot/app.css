@@ -1,0 +1,17 @@
+:root {
+    --bulma-primary-h: 205deg;
+    --bulma-primary-s: 71%;
+    --bulma-primary-l: 46%;
+}
+
+.center-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.w-full {
+    width: 100%;
+}
